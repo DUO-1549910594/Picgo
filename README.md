@@ -1,0 +1,2 @@
+# Picgo
+store the pictures
